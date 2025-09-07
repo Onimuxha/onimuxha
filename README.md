@@ -39,8 +39,8 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
 ### Most Starred Repositories
 
 <p align="center">
-  <a href="https://github.com/onimuxha/react-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=react-portfolio&theme=radical&show_owner=true" alt="/react-portfolio" />
+  <a href="https://github.com/onimuxha/iconsek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=react-portfolio&theme=radical&show_owner=true" alt="iconsek" />
   </a>
 </p>
 <p align="center">
