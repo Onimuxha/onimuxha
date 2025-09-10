@@ -42,6 +42,9 @@ I'm a web developer passionate about building website frontend. I enjoy solving 
   <a href="https://github.com/Onimuxha/iconsek">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=iconsek&theme=radical&show_owner=true" alt="iconsek" />
   </a>
+  <a href="https://github.com/Onimuxha/jupiter-iconz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onimuxha&repo=jupiter-iconz&theme=radical&show_owner=true" alt="iconsek" />
+  </a>
 </p>
 
 ## <img src ="https://kawaiihoshi.com/wp-content/uploads/2023/07/1-peach-goma-animations.gif" width="30"> GitHub Trophies
